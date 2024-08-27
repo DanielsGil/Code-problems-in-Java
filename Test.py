@@ -1,3 +1,3 @@
-print("hola mundo")
+print("Calculadora ultra simple")
 
-print("My first line")
+opcion = int(input())
